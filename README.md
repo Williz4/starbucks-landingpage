@@ -10,7 +10,7 @@ A mockup Landing page for the coffee company Starbucks.
 
 ## Setup/Installation Requirements
 
-* Load the page at (https://williz4.github.io/dad-jokes/). 
+* Load the page at (https://williz4.github.io/starbucks-landingpage/). 
 
 ## Known Bugs
 There are currently no known bugs in this website.
